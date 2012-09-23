@@ -1,0 +1,30 @@
+
+# 
+#         ** Dreses - configuration file **
+#
+
+
+
+
+
+
+
+#
+# -- grid
+#
+# The locations are associated with the grid points row by row, starting from the
+# bottom left corner and ending to the top right corner of the grid.
+#
+# The grid point at the bottom left corner is the first grid point (ID = 1)
+# and it is associated with the spatial location (1,1).
+#
+# grid specifications: resolution [nc x nr] and grid spacing [au]
+15 15 1
+
+
+
+#
+# -- reference points
+#
+# coordinates (X,Y) of the start point and end point
+3 3 10 10

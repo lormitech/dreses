@@ -1,0 +1,17 @@
+
+# 
+#         ** Dreses - polygons **
+#
+
+
+
+
+
+
+
+#
+# -- polygon specs
+#
+# each line is associated with the coordinates (X,Y) of the vertices of a polygon
+#
+7 5 9 5 9 7 11 7 11 9 9 9 9 11 7 11 7 9 5 9 5 7 7 7

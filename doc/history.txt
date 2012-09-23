@@ -1,0 +1,17 @@
+
+
+++ Dreses - history file ++
+
+
+
+[23.09.12]
+tag vers_0_3_0
+
+
+
+-----
+
+program name: Dreses
+
+A program to evaluate geodesic distances in finite domains with complex
+boundaries and holes.
